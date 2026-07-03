@@ -1,9 +1,7 @@
-Flask
-scikit-learn
 streamlit
-numpy
 pandas
-matplotlib
-tensorflow-cpu
-pydicom
+numpy
+scikit-learn
 joblib
+pydicom
+tensorflow-cpu
